@@ -1,0 +1,12 @@
+com\oceanview\model\Reservation.class
+com\oceanview\repository\UserRepository.class
+com\oceanview\config\SecurityConfig.class
+com\oceanview\OceanViewApplication.class
+com\oceanview\service\ReservationService.class
+com\oceanview\model\RoomType.class
+com\oceanview\repository\ReservationRepository.class
+com\oceanview\controller\AuthController.class
+com\oceanview\model\User.class
+com\oceanview\service\AuthService.class
+com\oceanview\controller\ReservationController.class
+com\oceanview\dto\ReservationDTO.class
